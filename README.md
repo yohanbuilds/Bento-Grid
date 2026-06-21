@@ -5,3 +5,7 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
 # Preview
 
 ![Logo](preview.jpg)
+
+# Demo
+
+[Live URL](https://bento-grid-csss.netlify.app/)
